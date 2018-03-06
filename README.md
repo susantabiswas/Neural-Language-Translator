@@ -11,6 +11,8 @@ Below are some output snapshots.<br>
 
 ![2](images/2.JPG)
 
+Dataset can be downloaded from www.manythings.org/anki and the extracted file should be saved in **data/** folder.<br>
+Trained Model weights are stored in **models** folder.
 
 
 #### Credits
