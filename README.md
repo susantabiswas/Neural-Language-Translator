@@ -1,6 +1,7 @@
 # Neural Language Translator
-Sequence to sequence model for Language translation from English to French.
+Sequence to sequence model for Language translation from **English to French**.<br>
 This model uses an **Encoder-Decoder** with **LSTM** cells.
+
 The model can similarly used for translation between other languages also like from English to Hindi.
 The model was trained on a small dataset of around 8000 sentence pairs for 70 epochs.
 
