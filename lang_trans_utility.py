@@ -50,7 +50,7 @@ def load_dataset(data_path, num_samples ):
     input_chars = sorted(input_chars)
     target_chars = sorted(target_chars)
 
-    return encoder_unique_tokens, decoder_unique_tokens, input_chars, target_chars, input_texts, target_chars, Tx, Ty
+    return encoder_unique_tokens, decoder_unique_tokens, input_chars, target_chars, input_texts, target_texts, Tx, Ty
 
 
 # creates dictionary mappings for input language and target language
